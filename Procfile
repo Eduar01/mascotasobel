@@ -1,1 +1,1 @@
-web: gunicorn MASCOTAS.wsgi --log-file -
+web: gunicorn MASCOTAS.wsgi
