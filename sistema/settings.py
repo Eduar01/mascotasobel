@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-+!8kxy9a($_bm!aj!+y0b-q-s+$7nc!w0c2#0@c1714a_oww_w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mascotas-xd.herokuapp.com', '127.0.0.1']
+#ALLOWED_HOSTS = ['mascotas-xd.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
  
 # Application definition
